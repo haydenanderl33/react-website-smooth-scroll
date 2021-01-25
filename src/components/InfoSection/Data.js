@@ -4,7 +4,7 @@ export const homeObjOne = {
     lightText: true,
     lightTextDesc: true,
     topLine: 'Premium Bank',
-    headLine: 'Unlimited Transactions with zero fees',
+    headLine: 'Eli Miller',
     description: 'Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fees.',
     buttonLabel: 'Get Started',
     imgStart: false,
